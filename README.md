@@ -1,6 +1,7 @@
 # Catch 'em all !
 ---
-## This Repository is a groupwork for the module 'Introduction to Data Science' @HTW-Berlin
+## This Repository is a groupwork for the module 'Introduction to Data Science' @HTW-Berlin 
+## Plotting with pyecharts done by Weijie Zhang
 We're working with follwoing Pokemon Data resources 
 1. [800 Pokemon stats](https://www.kaggle.com/abcsds/pokemon)
 2. [Pokemon types and their counters](https://www.kaggle.com/mrinalshankar/pokemon-types)
